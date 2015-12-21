@@ -1,7 +1,7 @@
 {-# LANGUAGE CPP, BangPatterns, DeriveDataTypeable, FlexibleContexts,
     FlexibleInstances, GeneralizedNewtypeDeriving,
     OverloadedStrings, UndecidableInstances,
-    ViewPatterns #-}
+    ViewPatterns, IncoherentInstances #-}
 {-# LANGUAGE DefaultSignatures #-}
 
 #include "overlapping-compat.h"
